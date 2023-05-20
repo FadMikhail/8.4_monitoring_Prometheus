@@ -44,7 +44,11 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
+![image](https://github.com/FadMikhail/8.4_monitoring_Prometheus/assets/132131230/aa154423-ea34-4c65-b909-1a81a763eb7c)
+
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
+![image](https://github.com/FadMikhail/8.4_monitoring_Prometheus/assets/132131230/7ccc5ea9-88b4-4f08-8b28-94318961d38c)
+
 
 ---
 ## Дополнительные задания со звёздочкой*
